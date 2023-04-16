@@ -3,5 +3,7 @@ Dip irrigation using IOT:Web application and App using flutter.Drip irrigation i
 
 
 .Download ZIP file
+
 .Extraxt file
-.Rin main.html
+
+.Run main.html
